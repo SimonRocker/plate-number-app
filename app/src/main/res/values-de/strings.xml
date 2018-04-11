@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kennzeichen-App</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_history">Verlauf</string>
+    <string name="button_back">Noch eine Suche!</string>
+    <string name="double_click_ends_app">Nochmaliges Tippen beendet die App.</string>
+    <string name="editTextEingabe">Hier eingeben!</string>
+    <string name="empty">Keine Elemente vorhanden!</string>
+    <string name="history">Ihr Verlauf</string>
+    <string name="impressum">Impressum</string>
+    <string name="impressum_adress">Adresse: Eisenbahnstraße 30, 72336 Balingen</string>
+    <string name="impressum_email">Email: simon.roecker@gmx.de</string>
+    <string name="impressum_extra">Informatikstudent Hochschule Karlsruhe / Praktikant inovex</string>
+    <string name="impressum_name">Name: Simon Röcker</string>
+    <string name="maps_spinner">Google Maps Zoom:</string>
+    <string name="search">Ihre Suche</string>
+    <string name="settings">Einstellungen</string>
+    <string name="startButton">Los geht\'s!</string>
+    <string name="textViewEingabe">Bitte geben Sie das gesuchte Autokennzeichen ein!</string>
+    <string name="textViewExample">Beispiel: \"B\" für \"Berlin\" oder umgekehrt.</string>
+    <string name="textviewAusgabe">Es lief wohl etwas schief</string>
+    <string name="textview_history">"Verlauf anlegen:   "</string>
+    <string name="textview_maps">"Google Maps aktiviert:   "</string>
+    <string name="nameAlert">Vorsicht</string>
+    <string name="buttonAlert">Verstanden!</string>
+    <string name="alert">Bitte überprüfen Sie Ihre Eingabe! Hinweis: Als Eingabe werden Kennzeichen (Länge 1- 3 Buchstaben) oder Stadtnamen akzeptiert.</string>
+    <string name="maps_deactivated">(Kartenansicht deaktiviert)</string>
+    <string name="notExistingPlate">Es gibt kein solches deutsches Kennzeichen!</string>
+    <string name="result1">Das Ergebnis für \"</string>
+    <string name="result2">\" ist:</string>
+    <string name="unableToFind">(Kartenansicht nicht möglich)</string>
+</resources>

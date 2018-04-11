@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Number Plate App</string>
+    <string name="action_history">History</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_back">Search again!</string>
+    <string name="double_click_ends_app">Click again to close the app.</string>
+    <string name="editTextEingabe">Enter here!</string>
+    <string name="empty">No elements to show!</string>
+    <string name="history">Your history</string>
+    <string name="impressum">Impressum</string>
+    <string name="impressum_adress">Address: 72336 Balingen, Eisenbahnstraße 30</string>
+    <string name="impressum_email">Email: simon.roecker@gmx.de</string>
+    <string name="impressum_extra">Student of computer science / trainee at inovex</string>
+    <string name="impressum_name">Name: Simon Röcker</string>
+    <string name="maps_spinner">Google Maps Zoom:</string>
+    <string name="search">Your search</string>
+    <string name="settings">Settings</string>
+    <string name="startButton">Let\'s go!</string>
+    <string name="textViewEingabe">Please enter the number plate you search for!</string>
+    <string name="textViewExample">Example: \"B\" for \"Berlin\" or the other way around.</string>
+    <string name="textviewAusgabe">Something went wrong</string>
+    <string name="textview_history">"Create history:   "</string>
+    <string name="textview_maps">"Google maps active:   "</string>
+    <string name="nameAlert">Warning</string>
+    <string name="buttonAlert">Got it!</string>
+    <string name="alert">Please check your entry again!</string>
+    <string name="maps_deactivated">(Maps deactivated)</string>
+    <string name="notExistingPlate">There is no such german number plate!</string>
+    <string name="result1">The result for \"</string>
+    <string name="result2">\" is:</string>
+    <string name="unableToFind">(No view possible)</string>
+    <string-array name="zoom_array">
+        <item>World</item>
+        <item>Germany</item>
+        <item>City</item>
+    </string-array>
+</resources>
